@@ -23,9 +23,8 @@ Class Honors Upper Division).
 ---
 
 ## Professional Experience:
-## 1.
 
-Software Developer
+## 1. Software Developer
 
 Systech Limited, Nairobi 
 
