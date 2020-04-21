@@ -24,11 +24,11 @@ Class Honors Upper Division).
 
 ## Professional Experience:
 
-## 1. Software Developer
+###### Position: Software Developer
 
-Systech Limited, Nairobi 
+###### Organization: Systech Limited, Nairobi 
 
-2018 January – Present
+###### Period: 2018 January – Present
 
 ##### Duties and Responsibilities:
 
