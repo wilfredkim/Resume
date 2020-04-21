@@ -42,8 +42,13 @@ Systech Limited, Nairobi
 - Maintaining the stability of all live systems
 - Being first point of call for new and current clients and assessing software requirements.
 
+Software Developer Intern
+
 Systech Limited,Nairobi  
-Internship Trainnee, 2017 June – 2017 Decemeber
+
+June 2017 – December 2017
+
+### Duties and Responsibilities:
 
 - Familiarize on core java and Java EE concepts.
 - Design and develop Java EE web applications.
@@ -51,8 +56,13 @@ Internship Trainnee, 2017 June – 2017 Decemeber
 - Trouble shooting and problem solving.
 - Software testing and quality assurance.
 
+IT Support Attachee
+
 Moi University College of Health Sciences, Eldoret
-Information technology Industrial Attacheee, 2016 January - 2016 April
+
+January 2016 - April 2016 
+
+### Duties and Responsibilities:
 
 - Software and hardware installations
 - Computer hardware repair, maintenance and troubleshooting
@@ -60,8 +70,15 @@ Information technology Industrial Attacheee, 2016 January - 2016 April
 - Systems administration
 - Providing IT support to university administrators
 
+IT Support
+
 Dedan Kimathi University of Technology, Nyeri
-Computer Science Internal industrial Attacheee, 2015 January - 2015 April
+
+Computer Science  Department
+
+January 2015 - April 2015 
+
+### Duties and Responsibilities:
 
 - Software and hardware installations
 - Computer hardware repair, maintenance and troubleshooting
@@ -71,7 +88,9 @@ Computer Science Internal industrial Attacheee, 2015 January - 2015 April
 
 ---
 
-## Technical Experience: Programming
+## Technical Experience: 
+
+### Programming
 
 - Broad development knowledge in the following programming languages: Java both Java SE and Java EE, Android, PHP and Spring MVC.
 - Knowledge in Oracle and MySQL Databases.
@@ -99,7 +118,7 @@ Computer Science Internal industrial Attacheee, 2015 January - 2015 April
 
 ## Hobbies/Interests 
 
-- Reading articles, blogs mostly the I.T articles
+- Reading articles, blogs mostly the I.T related articles
 - Programming
 - Playing football
 - Listening to music
@@ -116,7 +135,7 @@ Software Developers Team Lead,
 
 Systech Limited.
 
-Tel: 0724573725.
+Phone Number: 0724573725.
 
 Email: samuelmurani@gmail.com
 
@@ -128,7 +147,7 @@ Software Developer
 
 Safaricom PLC
 
-Tel: 0723846453
+Phone Number: 0723846453
 
 Email: lazaruskorir95@gmail.com
 
@@ -140,7 +159,7 @@ CEO
 
 Ujasiri Mircocap.
 
-Tel: 0721405283
+Phone Number: 0721405283
 
 Email: juliuskcheruiyot@gmail.com
 
