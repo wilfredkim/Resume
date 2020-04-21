@@ -1,6 +1,8 @@
 # Wilfred Kipngetich
 
-P.O Box 9390-30100 • Eldoret,Kenya
+P.O Box 9390-30100 
+
+Eldoret,Kenya
 
 wilfredkim5@gmail.com
 
