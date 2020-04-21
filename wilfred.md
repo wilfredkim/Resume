@@ -30,9 +30,10 @@ Systech Limited, Nairobi
 
 2018 January – Present
 
-- Design and develop Fund Master System (Xi) and also Member Self Service Portal(MSS). Involved in development of Register Module, reporting, accounts andAdministration
-- Design, develop and maintain Fund Master Mobile App. Involved in development of Mobile app backend.
+### Duties and Responsibilities:
 
+- Design and develop Fund Master System (Xi) and also Member Self Service Portal(MSS). Involved in development of Register Module, reporting, accounts andAdministration.
+- Design, develop and maintain Fund Master Mobile App. Involved in development of Mobile app backend.
 - Involved in development of integration of Fund Master System with Mpesa.(Mobile money) using Daraja APIs.
 - Writing unit and integration tests for system applications.
 - Generating reports using Oracle BI and Logi Analytics.
