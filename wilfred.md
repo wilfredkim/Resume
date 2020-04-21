@@ -12,27 +12,23 @@ wilfredkim5@gmail.com
 
 ## Education and Professional Qualifications: 
 
-**Barchelor of Science in Computer Science**;
+2013-2016:  Dedan  Kimathi University  of  Technology.  Bachelor  in  Computer  Science (Second 
+Class Honors Upper Division).
 
-Dedan Kimathi University of Technology (Main Campus- Nyeri)
-2013-2017(Second Class honors Upper Division)
+2009-2012: Segero Adventist School – Eldoret. KCSE certificate. (A-)minus.
 
- 
+2000-2008: Kapsoen Primary School. KCPE Certificate.
 
-2009-2012( A- Minus)
-
-**Kenya Certificate of Secondary Education**;Segero Adventist School (Eldoret)
-
-2000-2008(330 Marks)
-
-**Kenya Certificate of Primary Education**; Kapsoen Primary School
 
 ---
 
-## Professional Experience: Software Development 
+## Professional Experience:
 
-Systech Limited, Nairobi  
-Developer, 2018 January – Present
+Software Developer
+
+Systech Limited, Nairobi 
+
+2018 January – Present
 
 - Design and develop Fund Master System (Xi) and also Member Self Service Portal(MSS). Involved in development of Register Module, reporting, accounts andAdministration
 - Design, develop and maintain Fund Master Mobile App. Involved in development of Mobile app backend.
