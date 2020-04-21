@@ -41,13 +41,12 @@ Class Honors Upper Division).
 - Analyzing and debugging code.
 - Maintaining the stability of all live systems
 - Being first point of call for new and current clients and assessing software requirements.
-## 2.
 
-Software Developer Intern
+###### Position: Software Developer Intern
 
-Systech Limited,Nairobi  
+###### Organization: Systech Limited, Nairobi 
 
-June 2017 – December 2017
+###### Period: June 2017 – December 2017
 
 #### Duties and Responsibilities:
 
@@ -57,13 +56,11 @@ June 2017 – December 2017
 - Trouble shooting and problem solving.
 - Software testing and quality assurance.
 
-## 3.
+###### Position: IT Support Attachee
 
-IT Support Attachee
+###### Moi University College of Health Sciences, Eldoret
 
-Moi University College of Health Sciences, Eldoret
-
-January 2016 - April 2016 
+###### Period: January 2016 - April 2016
 
 ### Duties and Responsibilities:
 
@@ -73,15 +70,11 @@ January 2016 - April 2016
 - Systems administration
 - Providing IT support to university administrators
 
-## 4.
+###### Position: IT Support
 
-IT Support
+###### Dedan Kimathi University of Technology, Nyeri (Computer Science  Department)
 
-Dedan Kimathi University of Technology, Nyeri
-
-Computer Science  Department
-
-January 2015 - April 2015 
+###### Period: January 2015 - April 2015
 
 ### Duties and Responsibilities:
 
