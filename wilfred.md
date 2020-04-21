@@ -1,24 +1,30 @@
 # Wilfred Kipngetich
 
 P.O Box 9390-30100 • Eldoret,Kenya
+
 wilfredkim5@gmail.com
+
 0723787120
+
+---
 
 ## Education
 
 2013-2017(Second Class honors Upper Division)
 
-: **Barchelor of Science in Computer Science**; Dedan Kimathi University of Technology (Main Campus- Nyeri)
+**Barchelor of Science in Computer Science**; Dedan Kimathi University of Technology (Main Campus- Nyeri)
 
 2009-2012( A- Minus)
 
-: **Kenya Certificate of Secondary Education**;Segero Adventist School (Eldoret)
+**Kenya Certificate of Secondary Education**;Segero Adventist School (Eldoret)
 
 2000-2008(330 Marks)
 
-: **Kenya Certificate of Primary Education**; Kapsoen Primary School
+**Kenya Certificate of Primary Education**; Kapsoen Primary School
 
-## Professional Experience: Software Development {#experience-software-development}
+---
+
+## Professional Experience: Software Development 
 
 Systech Limited, Nairobi  
 Developer, 2018 January – Present
@@ -61,7 +67,9 @@ Computer Science Internal industrial Attacheee, 2015 January - 2015 April
 - Systems administration
 - Team building, co-operation and co-ordination
 
-## Technical Experience: Programming {#experience-programming}
+---
+
+## Technical Experience: Programming
 
 - Broad development knowledge in the following programming languages: Java both Java SE and Java EE, Android, PHP and Spring MVC.
 - Knowledge in Oracle and MySQL Databases.
@@ -73,7 +81,9 @@ Computer Science Internal industrial Attacheee, 2015 January - 2015 April
 - Strong analytical skills and level-headed problem solver
 - Reporting using Oracle Publisher tool. (OBIEE or BI) and Logi Analytics
 
-## Achievements and Portofolios {#achievements-portofolios}
+---
+
+## Achievements and Portofolios
 
 - Did a research project and developed Fertilizer Ordering System (Farmers ordering fertilizers from NCPB centers)
 - Have done my personal projects using various java technologies. You can feel free to visit my GitHub account. (<https://github.com/wilfredkim/)> for more information.
@@ -83,7 +93,9 @@ Computer Science Internal industrial Attacheee, 2015 January - 2015 April
 - Involved in system integration of Fund Master system with Mpesa.
 - I have developed Jasiri Rental Management System. (Residential and Commercial rental management software).
 
-## Hobbies/Interests {#hobbies-interests}
+---
+
+## Hobbies/Interests 
 
 - Reading articles, blogs mostly the I.T articles
 - Programming
@@ -94,19 +106,37 @@ Computer Science Internal industrial Attacheee, 2015 January - 2015 April
 ## Referees
 
 Please feel free to contact the under mentioned in regard to my competence, work ethic, performance and / or any other aspect with respect to me.
-: Mr. Samuel Murani,
+
+---
+Mr. Samuel Murani,
+
 Software Developers Team Lead,
+
 Systech Limited.
+
 Tel: 0724573725.
 
-: Mr. Lazarus Kipruto Korir
+---
+
+Mr. Lazarus Kipruto Korir
+
 Software Developer
+
 Safaricom PLC
+
 Tel: 0723846453
+
 Email: lazaruskorir95@gmail.com
 
-: Mr. Julius Cheruiyot
+---
+
+Mr. Julius Cheruiyot
+
 CEO
+
 Ujasiri Mircocap.
+
 Tel: 0721405283
+
 Email: juliuskcheruiyot@gmail.com
+
