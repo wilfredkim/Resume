@@ -10,11 +10,14 @@ wilfredkim5@gmail.com
 
 ---
 
-## Education
+## Education and Professional Qualifications: 
 
+**Barchelor of Science in Computer Science**;
+
+Dedan Kimathi University of Technology (Main Campus- Nyeri)
 2013-2017(Second Class honors Upper Division)
 
-**Barchelor of Science in Computer Science**; Dedan Kimathi University of Technology (Main Campus- Nyeri)
+ 
 
 2009-2012( A- Minus)
 
