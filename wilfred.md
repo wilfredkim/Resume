@@ -23,6 +23,7 @@ Class Honors Upper Division).
 ---
 
 ## Professional Experience:
+## 1.
 
 Software Developer
 
@@ -30,7 +31,7 @@ Systech Limited, Nairobi
 
 2018 January – Present
 
-### Duties and Responsibilities:
+##### Duties and Responsibilities:
 
 - Design and develop Fund Master System (Xi) and also Member Self Service Portal(MSS). Involved in development of Register Module, reporting, accounts andAdministration.
 - Design, develop and maintain Fund Master Mobile App. Involved in development of Mobile app backend.
@@ -41,6 +42,7 @@ Systech Limited, Nairobi
 - Analyzing and debugging code.
 - Maintaining the stability of all live systems
 - Being first point of call for new and current clients and assessing software requirements.
+## 2.
 
 Software Developer Intern
 
@@ -48,13 +50,15 @@ Systech Limited,Nairobi
 
 June 2017 – December 2017
 
-### Duties and Responsibilities:
+#### Duties and Responsibilities:
 
 - Familiarize on core java and Java EE concepts.
 - Design and develop Java EE web applications.
 - Writing multiple code and scripts.
 - Trouble shooting and problem solving.
 - Software testing and quality assurance.
+
+## 3.
 
 IT Support Attachee
 
@@ -69,6 +73,8 @@ January 2016 - April 2016
 - Network design, installation and IP address configuration
 - Systems administration
 - Providing IT support to university administrators
+
+## 4.
 
 IT Support
 
